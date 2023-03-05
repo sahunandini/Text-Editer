@@ -11,7 +11,6 @@ Features:-
 6. Exit.
 
 
-
 How to use:-
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
@@ -19,11 +18,9 @@ How to use:-
 4. Use the menu bar or keyboard shortcuts to access various functions.
 
 
-
 Contributing:-
 
 Pull requests and bug reports are welcome. Please see the CONTRIBUTING file for guidelines.
-
 
 
 Authors:-
@@ -34,12 +31,17 @@ Authors:-
 
 Sreenshots:- 
 
-<img width="576" alt="image" src="https://user-images.githubusercontent.com/117564136/222975798-f48a6468-22ad-4019-bc14-958ec69f1c66.png">
 
-<img width="594" alt="image" src="https://user-images.githubusercontent.com/117564136/222975934-47f8743c-39c3-4f23-a2d5-957af80eabf5.png">
+<img width="603" alt="Screenshot 2023-03-05 231741" src="https://user-images.githubusercontent.com/117564136/222977501-4820be31-bd04-443c-98b4-7957bbc270cd.png">
 
-<img width="566" alt="image" src="https://user-images.githubusercontent.com/117564136/222975977-8479be7b-750b-4917-8299-27931416f3e8.png">
 
-<img width="580" alt="image" src="https://user-images.githubusercontent.com/117564136/222976022-37e9b53b-b6ab-43c6-a058-38219c6591a6.png">
+<img width="603" alt="Screenshot 2023-03-05 231933" src="https://user-images.githubusercontent.com/117564136/222977516-8f836751-3054-42ed-b77c-a65de5cde76c.png">
+
+
+<img width="603" alt="Screenshot 2023-03-05 232131" src="https://user-images.githubusercontent.com/117564136/222977528-e845c29d-da5c-43ba-8e0b-b8a2e1a9a1b5.png">
+
+
+<img width="603" alt="Screenshot 2023-03-05 232229" src="https://user-images.githubusercontent.com/117564136/222977536-a94c15bb-8218-4c69-9f4b-227a41602db0.png">
+
 
 
