@@ -18,10 +18,13 @@ How to use:-
 4. Use the menu bar or keyboard shortcuts to access various functions.
 
 Contributing:-
+
 Pull requests and bug reports are welcome. Please see the CONTRIBUTING file for guidelines.
 
 Authors:-
+
 [Nandini Sahu] - [https://github.com/sahunandini/]
+
 
 Sreenshots:- 
 
