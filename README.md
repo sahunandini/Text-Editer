@@ -39,8 +39,7 @@ Sreenshots:-
 <img width="600" alt="Screenshot 2023-03-05 231741" src="https://user-images.githubusercontent.com/117564136/222987282-c800c34c-79af-46f9-b72c-d3b0013c0b6a.png">
 
 
-<img width="600" alt="Screenshot 2023-03-05 231741" src="https://user-images.githubusercontent.com/117564136/222987295-d849c966-69a9-4945-81ca-8b91a0a35b1d.png">
-
+<img width="600" alt="Screenshot 2023-03-05 231933" src="https://user-images.githubusercontent.com/117564136/222987500-1ef94b57-7589-4139-bdb3-3379da91be6b.png">
 
 <img width="600" alt="Screenshot 2023-03-05 232131" src="https://user-images.githubusercontent.com/117564136/222987298-b0923c1b-66a9-43cf-b7aa-e406477cfeac.png">
 
