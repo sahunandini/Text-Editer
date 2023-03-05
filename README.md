@@ -32,16 +32,15 @@ Authors:-
 Sreenshots:- 
 
 
-<img width="603" alt="Screenshot 2023-03-05 231741" src="https://user-images.githubusercontent.com/117564136/222977501-4820be31-bd04-443c-98b4-7957bbc270cd.png">
+<img width="600" alt="Screenshot 2023-03-05 231741" src="https://user-images.githubusercontent.com/117564136/222987282-c800c34c-79af-46f9-b72c-d3b0013c0b6a.png">
 
 
-<img width="603" alt="Screenshot 2023-03-05 231933" src="https://user-images.githubusercontent.com/117564136/222977516-8f836751-3054-42ed-b77c-a65de5cde76c.png">
+<img width="600" alt="Screenshot 2023-03-05 231741" src="https://user-images.githubusercontent.com/117564136/222987295-d849c966-69a9-4945-81ca-8b91a0a35b1d.png">
 
 
-<img width="603" alt="Screenshot 2023-03-05 232131" src="https://user-images.githubusercontent.com/117564136/222977528-e845c29d-da5c-43ba-8e0b-b8a2e1a9a1b5.png">
+<img width="600" alt="Screenshot 2023-03-05 232131" src="https://user-images.githubusercontent.com/117564136/222987298-b0923c1b-66a9-43cf-b7aa-e406477cfeac.png">
 
 
-<img width="603" alt="Screenshot 2023-03-05 232229" src="https://user-images.githubusercontent.com/117564136/222977536-a94c15bb-8218-4c69-9f4b-227a41602db0.png">
-
+<img width="600" alt="Screenshot 2023-03-05 232229" src="https://user-images.githubusercontent.com/117564136/222987308-0abe9710-994a-4a75-a838-ea26a0da150f.png">
 
 
