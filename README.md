@@ -1,4 +1,4 @@
-# Text Editer
+# TEXT EDITOR
 
 This is a simple Text Editor built using Java and Java Swing. It provides basic functionality for creating, opening, and saving text files.
 
