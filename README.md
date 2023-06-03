@@ -2,7 +2,7 @@
 
 This is a simple Text Editor built using Java and Java Swing. It provides basic functionality for creating, opening, and saving text files.
 
-Features:-
+## Features:-
 1. Create new text files.
 2. Open existing text files.
 3. Save changes to text files.
@@ -11,29 +11,29 @@ Features:-
 6. Exit.
 
 
-How to use:-
+## How to use:-
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
 3. Compile and run the program.
 4. Use the menu bar or keyboard shortcuts to access various functions.
 
 
-Contributing:-
+## Contributing:-
 
 Pull requests and bug reports are welcome. Please see the CONTRIBUTING file for guidelines.
 
 
-Authors:-
+## Authors:-
 
 Nandini Sahu - https://github.com/sahunandini/
 
 
-Contact:-
+## Contact:-
 
 If you have any questions or suggestions, please contact nandinisahu336@gmail.com
 
 
-Sreenshots:- 
+## Sreenshots:- 
 
 
 <img width="600" alt="Screenshot 2023-03-05 231741" src="https://user-images.githubusercontent.com/117564136/222987282-c800c34c-79af-46f9-b72c-d3b0013c0b6a.png">
